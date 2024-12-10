@@ -24,3 +24,5 @@ Pickle for model serialization
 **Model Evaluation**
 
 The model's performance is evaluated using metrics like accuracy, precision, recall, and F1 score.
+
+Link to the deployed website: https://churn-rate-prediction-4.onrender.com
